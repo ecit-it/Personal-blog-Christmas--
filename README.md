@@ -35,3 +35,8 @@ This blog administrator information is stored in the database, the application c
 用户未登录前，可以查看文章信息及发表评论。如果想要添加文章、图片等信息，需要登录，首先单击“博客注册”按钮，注册用户名和密码。注册成功后，进入普通用户操作页面。
 在该页面中，可以添加及查询文章信息、发表评论；添加及查询图片；添加朋友信息等操作。
 　　本博客的管理员信息是保存在数据库中的，程序中不可添加、修改及删除。在博客首页登录处输入管理员用户名、密码及验证码，进入管理员操作页面。管理员具有普通用户的所有权限，还可以删除文章信息、评论信息、图片及自己的朋友信息，管理普通用户信息及公告信息。
+License
+
+MIT licensed
+
+Copyright (C) 2012 huidaoli 、ecit-it.com, http://ecit-it.com   http://huidaoli.web-164.com
